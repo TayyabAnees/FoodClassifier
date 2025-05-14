@@ -1,6 +1,7 @@
 # Food Classifier
 
 This repository contains a deep learning-based food classifier that distinguishes between food and non-food images using a fine-tuned GoogLeNet model. The project includes a training notebook, a Flask server for inference, and the Food-5K dataset.
+The model is hosted at Streamlit and can be tested at : https://foodclassifierapp-z6bjx7fzbgsvrmgdcvkyb9.streamlit.app/
 
 ## Table of Contents
 - [Overview](#overview)
